@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>OXO - App Landing Page</title>
+    <!-- favicon -->
+    <link rel=icon href=favicon.ico sizes="20x20" type="image/png">
+    <!-- animate -->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <!-- fontawesome -->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <!-- flaticon -->
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <!-- Hover CSS -->
+    <link rel="stylesheet" href="assets/css/hover-min.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- responsive Stylesheet -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+</head>
+
+<body>
+    <!-- preloader area start -->
+    <div class="preloader" id="preloader">
+        <div class="preloader-inner">
+            <div></div>
+            <hr/>
+        </div>
+    </div>
+    <!-- preloader area end -->
+    <div class="header-style-01">
+        <!-- support bar area end -->
+        <nav class="navbar navbar-area navbar-expand-lg nav-style-02">
+            <div class="container nav-container medical-nav">
+                <div class="responsive-mobile-menu">
+                    <div class="logo-wrapper">
+                        <a href="index.html" class="logo">
+                            <img src="assets/img/logo.png" alt="">
+                        </a>
+                    </div>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bizcoxx_main_menu" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="bizcoxx_main_menu">
+                    <ul class="navbar-nav style-01">
+                        <li class="menu-item-has-children current-menu-item">
+                            <a href="#">Home</a>
+                               <ul class="sub-menu">
+                                <li><a href="index.html">Home 01</a></li>
+                                <li><a href="index-2.html">Home 02</a></li>
+                                <li><a href="index-3.html">Home 03</a></li>
+                                <li><a href="index-4.html">Home 04</a></li>
+                                <li><a href="index-5.html">Home 05</a></li>
+                                <li><a href="index-6.html">Home 06</a></li>
+                                <li><a href="index-7.html">Home 07</a></li>
+                                <li><a href="index-8.html">Home 08</a></li>
+                                <li><a href="index-9.html">Home 09</a></li>
+                                <li><a href="index-10.html">Home 10</a></li>
+                                <li><a href="index-11.html">Home 11</a></li>
+                                <li><a href="index-12.html">Home 12</a></li>
+                                <li><a href="index-13.html">Home 13</a></li>
+                                <li><a href="index-14.html">Home 14</a></li>
+                                <li><a href="index-15.html">Home 15</a></li>
+                                <li><a href="index-16.html">Home 16</a></li>
+                                <li><a href="index-17.html">Home 17</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-item-has-children">
+                            <a href="#">Pages</a>
+                            <ul class="sub-menu">
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="service.html">Services</a></li>
+                                <li><a href="how-it-work.html">How it work</a></li>
+                                <li><a href="faq.html">FAQs</a></li>
+                                <li><a href="coming-soon.html">Coming Soon</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#packages">Overview</a></li>
+                        <li><a href="#why">Why Us ?</a></li>
+                        <li><a href="#contact">Health Tips</a></li>
+                    </ul>
+                </div>
+                <div class="nav-right-content">
+                    <div class="btn-wrapper">
+                        <a href="#" class="boxed-btn medical-btn">Join With Us</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- navbar area end -->
+    </div>
+    <div class="header-area header-medical">
+        <div class="business-bg-img desktop-center wow animate__animated animate__fadeInRight" style="background-image:url(assets/img/bg/medical/01.png);"></div>
+        <div class="medi-shape-01" style="background-image: url(assets/img/bg/medical/shape-01.png);"></div>
+        <div class="medi-shape-02" style="background-image: url(assets/img/bg/medical/shape-02.png);"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="header-inner desktop-center">
+                        <!-- header inner -->
+                        <h1 class="title wow animate__animated animate__fadeInUp animated">Modern, Smart, Hassle-free online medical care </h1>
+                        <p class="wow animate__animated animate__fadeInUp animated">A friendlier healthcare experience for everyone</p>
+                        <div class="btn-wrapper padding-top-30 wow animate__animated animate__fadeInUp animated">
+                            <a href="#" class="boxed-btn medical-btn">Get Health App Now</a>
+                        </div>
+                    </div>
+                    <!-- //.header inner -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--  -->
+    <div class="medi-care-area padding-top-120 padding-bottom-120">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="how-it-single-item-03 wow animate__animated animate__fadeInUp">
+                        <div class="icon">
+                            <img src="assets/img/bg/medical/icon-02.png" alt="">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Symptom Checker</h4>
+                            <p class="medi-para">Inspiration comes in many ways and you like to save everything from.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="how-it-single-item-03 wow animate__animated animate__fadeInUp">
+                        <div class="icon style-01">
+                            <img src="assets/img/bg/medical/icon-01.png" alt="">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Chat with Doctor</h4>
+                            <p class="medi-para">Inspiration comes in many ways and you like to save everything from.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="how-it-single-item-03 wow animate__animated animate__fadeInUp animated">
+                        <div class="icon style-02">
+                            <img src="assets/img/bg/medical/icon-03.png" alt="">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Medicinie Reminders</h4>
+                            <p class="medi-para">Inspiration comes in many ways and you like to save everything from.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Create Content-->
+    <div class="create-content-area-02">
+        <div class="bg-image" style="background-image: url(assets/img/bg/medical/shape-03.png);"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="section-title padding-bottom-25 wow animate__animated animate__fadeInUp animated">
+                        <h4 class="title">Guide patients to the right care</h4>
+                    </div>
+                    <ul class="icon-list-style wow animate__animated animate__fadeInUp">
+                        <li>
+                            <div class="icon">
+                                <i aria-hidden="true" class="fas fa-check"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title">AI Physicians & Together</h4>
+                                <p>Your Instagram Stories on web or mobile Inspiration comes in many ways and you like.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i aria-hidden="true" class="fas fa-check"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title">AI Physicians & Together</h4>
+                                <p>Your Instagram Stories on web or mobile Inspiration comes in many ways and you like.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i aria-hidden="true" class="fas fa-check"></i>
+                            </div>
+                            <div class="content">
+                                <h4 class="title">AI Physicians & Together</h4>
+                                <p>Your Instagram Stories on web or mobile Inspiration comes in many ways and you like.</p>
+                            </div>
+                        </li>
+                        <div class="btn-wrapper padding-top-30 wow animate__animated animate__fadeInUp animated">
+                            <a href="#" class="boxed-btn medical-btn">Get Health App Now</a>
+                        </div>
+                    </ul>
+
+                </div>
+                <div class="col-lg-6 offset-lg-2">
+                    <img src="assets/img/bg/medical/02.png" class="trip-img wow animate__animated animate__fadeInRight animated">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Client Section -->
+    <div class="client-area padding-top-120">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title desktop-center padding-bottom-40 wow animate__animated animate__fadeInUp animated">
+                        <h3 class="title style-01">We all help dozens of organizations</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="client-area wow animate__animated animate__fadeInUp animated">
+                        <div class="client-active-area">
+                            <div class="single-brand">
+                                <a href="#"><img src="assets/img/client/01.png" alt=""></a>
+                            </div>
+                            <div class="single-brand">
+                                <a href="#"><img src="assets/img/client/02.png" alt=""></a>
+                            </div>
+                            <div class="single-brand">
+                                <a href="#"><img src="assets/img/client/03.png" alt=""></a>
+                            </div>
+                            <div class="single-brand">
+                                <a href="#"><img src="assets/img/client/04.png" alt=""></a>
+                            </div>
+                            <div class="single-brand">
+                                <a href="#"><img src="assets/img/client/01.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Destination Us -->
+    <div class="create-content-area-03 padding-bottom-75 padding-top-120">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="trip-img wow animate__animated animate__backInUp bg-image" data-parallax='{"x": -50, "y": 0}' style="background-image: url(assets/img/bg/medical/03.png);"></div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="section-title padding-bottom-30">
+                        <h4 class="title wow animate__animated animate__fadeInUp animated">Easy to appointment with doctors</h4>
+                        <p class="wow animate__animated animate__fadeInUp animated">Inspiration comes in many ways and you like to save everything from. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                    </div>
+                    <ul class="content wow animate__animated animate__fadeInUp animated">
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Inspiration comes</strong> in many ways and you like to save</li>
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Plan and schedule</strong> your Instagram Stories on web or mobile</li>
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Include a first comment</strong> when you schedule Instagram posts</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Create Content-->
+    <div class="create-content-area-03 padding-bottom-60">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="section-title padding-bottom-30">
+                        <h4 class="title wow animate__animated animate__fadeInUp animated">Simple, Accessible, Enjoyable</h4>
+                        <p class="wow animate__animated animate__fadeInUp animated">Inspiration comes in many ways and you like to save everything from. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                    </div>
+                    <ul class="content wow animate__animated animate__fadeInUp animated">
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Inspiration comes</strong> in many ways and you like to save</li>
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Plan and schedule</strong> your Instagram Stories on web or mobile</li>
+                        <li><i aria-hidden="true" class="fas fa-check"></i><strong> Include a first comment</strong> when you schedule Instagram posts</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <div class="trip-img wow animate__animated animate__backInDown bg-image" data-parallax='{"x": 50, "y": 0}' style="background-image: url(assets/img/bg/medical/04.png);"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- testimonial area start  -->
+    <section class="testimonial-area medical">
+        <div class="medical-image" data-parallax='{"x": 20, "y": 20}' style="background-image: url(assets/img/bg/medical/shape-04.png);"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-8">
+                    <div class="section-title medical desktop-center padding-top-75">
+                        <h3 class="title">What our customer’s say</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row padding-top-75">
+                <div class="col-lg-6">
+                    <div class="testimonial-carousel-area">
+                        <div class="testimonial-carousel-two">
+                            <div class="single-testimonial-item-11 style-01">
+                                <div class="icon">
+                                    <i class="flaticon-quote-left"></i>
+                                </div>
+                                <div class="content">
+                                    <p class="description">Inspiration comes in many ways and you like to save everything from. sed do exercitation.</p>
+                                    <div class="author-details">
+                                        <div class="author-meta">
+                                            <h4 class="title">Tomas Helis</h4>
+                                        </div>
+                                    </div>
+                                </div>     
+                            </div>
+                            <div class="single-testimonial-item-11 style-01">
+                                <div class="icon">
+                                    <i class="flaticon-quote-left"></i>
+                                </div>
+                                <div class="content">
+                                    <p class="description">Inspiration comes in many ways and you like to save everything from. sed do exercitation.</p>
+                                    <div class="author-details">
+                                        <div class="author-meta">
+                                            <h4 class="title">Tomas Helis</h4>
+                                        </div>
+                                    </div>
+                                </div>     
+                            </div>
+                            <div class="single-testimonial-item-11 style-01">
+                                <div class="icon">
+                                    <i class="flaticon-quote-left"></i>
+                                </div>
+                                <div class="content">
+                                    <p class="description">Inspiration comes in many ways and you like to save everything from. sed do exercitation.</p>
+                                    <div class="author-details">
+                                        <div class="author-meta">
+                                            <h4 class="title">Tomas Helis</h4>
+                                        </div>
+                                    </div>
+                                </div>     
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 offset-lg-1">
+                    <div class="thumb">
+                        <img src="assets/img/testimonial/startup/01.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- testimonial area start  -->
+    <section class="testimonial-area padding-top-120 padding-bottom-120">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-title desktop-center medical padding-bottom-55">
+                        <h3 class="title">HealthTips & News</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="testimonial-carousel-three">
+                        <div class="single-testimonial-12">
+                            <div class="thumb">
+                                <img src="assets/img/bg/medical/05.png" alt="">
+                            </div>
+                            <div class="content">
+                                <p class="description">Refresh your routine & take physical exercise for health</p>
+                                <div class="author-details">
+                                    <div class="author-meta">
+                                        <h4 class="title">Health Tips</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial-12">
+                            <div class="thumb">
+                                <img src="assets/img/bg/medical/06.png" alt="">
+                            </div>
+                            <div class="content">
+                                <p class="description">Therapy can change your physical condition with mind</p>
+                                <div class="author-details">
+                                    <div class="author-meta">
+                                        <h4 class="title">Latest Blog</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- testimonial area end -->
+    <!-- footer area start -->
+    <footer class="footer-area">
+        <div class="footer-top style-04 padding-top-85 padding-bottom-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="footer-widget widget wow animate__animated animate__fadeInLeft animated">
+                            <div class="about_us_widget">
+                                <a href="index.html" class="footer-logo"> <img src="assets/img/logo.png" alt="footer logo"></a>
+                            </div>
+                        </div>
+                        <div class="widget widget_nav_menu wow animate__animated animate__fadeInLeft animated">
+                            <p>Follow us on</p>
+                            <ul class="social_share style-01">
+                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="footer-widget style-01 widget widget_nav_menu wow animate__animated animate__fadeInUp animated">
+                            <h4 class="widget-title">Company</h4>
+                            <ul>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Features</a></li>
+                                <li><a href="#">Pricing</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="footer-widget style-01 widget widget_nav_menu wow animate__animated animate__fadeInUp animated">
+                            <h4 class="widget-title">Products</h4>
+                            <ul>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Help Center</a></li>
+                                <li><a href="#">Contact</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="footer-widget style-01 widget widget_nav_menu wow animate__animated animate__fadeInUp animated">
+                            <h4 class="widget-title">Resources</h4>
+                            <ul>
+                                <li><a href="#">FAQ’S</a></li>
+                                <li><a href="#">Testimonial</a></li>
+                                <li><a href="#">Terms & Conditions</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="footer-widget style-01 widget widget_nav_menu wow animate__animated animate__fadeInUp animated">
+                            <h4 class="widget-title">Relevent</h4>
+                            <ul>
+                                <li><a href="#">Why</a></li>
+                                <li><a href="#">Products</a></li>
+                                <li><a href="#">Customers</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-area style-03">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright-area-inner">
+                            © Copyrights 2020 Oxo All rights reserved.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer area end -->
+
+
+
+
+    <!-- back to top area start -->
+    <div class="back-to-top">
+        <span class="back-top"><i class="fa fa-angle-up"></i></span>
+    </div>
+    <!-- back to top area end -->
+
+
+    <!-- jquery -->
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- magnific popup -->
+    <script src="assets/js/jquery.magnific-popup.js"></script>
+    <!-- wow -->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- owl carousel -->
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <!-- waypoint -->
+    <script src="assets/js/waypoints.min.js"></script>
+    <!-- counterup -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- Water effect -->
+    <script src="assets/js/jquery.ripples-min.js"></script>
+    <!-- imageloaded -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope -->
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <!-- Parallax Js -->
+    <script src="assets/js/parallax.js"></script>
+    <!-- Mail Validation -->
+    <script src="assets/js/mail-validation.js"></script>
+    <!-- Contact js -->
+    <script src="assets/js/contact.js"></script>
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
